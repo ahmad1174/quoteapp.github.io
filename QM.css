@@ -1,0 +1,28 @@
+body{
+    background-color: #5bc0de;
+}
+#box{
+
+border :1px solid white;
+    border-radius: 15px;
+    color:darkslategray;
+    background-color: #fff;
+    align-content: center;
+margin-top: 200px;
+    padding: 20px;
+}
+#boxText{
+    text-align: center;
+}
+#foot{
+    margin-left: 700px;
+}
+
+button{
+    margin-left: 500px;
+background-color: #5BC0DE;
+}
+#tweet{
+    margin-top: -45px;
+    margin-left: 70px;
+}
